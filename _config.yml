@@ -24,8 +24,8 @@ title: Annalia's Site SI 676 Lab
 email: annaliab@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll_test_repo" # the subpath of your site, e.g. /blog
+url: "https://xannaliab.github.io"
 github_username:  xannaliab
 
 # Build settings
